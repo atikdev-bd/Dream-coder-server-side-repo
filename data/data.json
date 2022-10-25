@@ -1,0 +1,44 @@
+[
+    {    "id" : 1,
+        "name": "React",
+        "img" : "https://i.ibb.co/SNCqmXn/react.jpg",
+        "title" : " The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
+        "price" : 10
+
+    },
+    {    "id" : 2,
+        "name": "Java Script",
+        "img" : "https://i.ibb.co/GPhCKrC/java.png",
+        "title" : "JavaScript is an extremely versatile language. Once you've mastered it, the possibilities are endless: you can code on the client-side (frontend) using Angular and on the server-side (backend) using Node. js. You can also develop web, mobile, and desktop apps using React.",
+        "price" : 30
+
+    },
+    {    "id" : 3,
+        "name": "PHP",
+        "img" : "https://i.ibb.co/s2Qhpw6/php.png",
+        "title" : "The open-source tools and high running speed make PHP one of the most preferred languages for creating interactive websites and web applications. Some of the biggest web platforms of today, including Facebook, Flickr, Yahoo, MailChimp, and Wikipedia, to name a few, use PHP in their end-to-end computing infrastructure.",
+        "price" : 20
+
+    },
+    {    "id" : 4,
+        "name": "C++",
+        "img" : "https://i.ibb.co/Zm4f6Tt/C.jpg",
+        "title" : "C++ is used to develop games, desktop apps, operating systems, browsers, and so on because of its performance. After learning C++, it will be much easier to learn other programming languages like Java, Python, etc.",
+        "price" : 30
+
+    },
+    {    "id" : 5,
+        "name": "Python",
+        "img" : "https://i.ibb.co/kDjVBjX/python.jpg",
+        "title" : "Python is a very popular programming language today and often needs an introduction. It is widely used in various business sectors, such as programming, web development, machine learning, and data science. Given its widespread use, it's not surprising that Python has surpassed Java as the top programming language.",
+        "price" : 45
+
+    },
+    {    "id" : 6,
+        "name": "MEAN-Stake",
+        "img" : "https://i.ibb.co/pr1cRC1/MEAN-stack-image.png",
+        "title" : "The MEAN stack is a JavaScript-based framework for developing web applications. MEAN is named after MongoDB, Express, Angular, and Node, the four key technologies that make up the layers of the stack",
+        "price" : 35
+
+    }
+]
