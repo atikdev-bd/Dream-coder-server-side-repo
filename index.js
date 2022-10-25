@@ -10,6 +10,11 @@ app.use(cors());
 const Courses = require("./data/data.json");
 
 
+app.get("/courses", (req, res) => {
+  res.send(Courses);
+});
+
+
 
 
 
