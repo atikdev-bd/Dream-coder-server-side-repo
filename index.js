@@ -14,7 +14,6 @@ app.get("/courses", (req, res) => {
 
 app.get("/course/:id", (req, res) => {
   const id = parseInt(req.params.id);
-  console.log(typeof id);
   const singleCourse = Courses.find((c) => c.id === id);
   res.send(singleCourse);
 });
